@@ -1,6 +1,6 @@
-<img src="assets/images/ssf.png" alt="SoftStack Factory" style="display: block; margin-left: auto; margin-right: auto;" />
- 
 # Exploratory Data Analysis ( EDA ) - DS201 Fall 2019
+
+<img src="assets/images/ssf.png" alt="SoftStack Factory" style="display: block; margin-left: auto; margin-right: auto;" />
 
 Exploratory Data Analysis (EDA) is the first step in your data analysis 
 process. Here, you make sense of the data you have and then figure out 
