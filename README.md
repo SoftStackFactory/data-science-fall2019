@@ -97,4 +97,5 @@ internet.
 <br>
 <br>
 
-##### Sponsored by [SoftStack Factory](www.softstackfactory.com)
+<p>Sponsored by <a href="www.softstackfactory.com" target="_blank">
+<big>SoftStack Factory</big></a></p>
