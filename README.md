@@ -23,7 +23,15 @@ or “Model”.
 
 ## Day 1: Overview
 
-{ CONTENT GOES HERE }
+Welcome Back! We'll spend the first part of class getting reacquainted
+and ensuring our environments are working properly. From there we'll
+briefly review what we went over in DS101 and run through some Pandas
+exercises to get back into the flow of things before jumping into EDA.
+
+This is a great time to ask questions and go over any material from the
+previous section that you feel you would like some clarification on.
+Moving forward we'll be working a lot with Pandas dataframes, so having 
+a solid foundation with respect to Pandas will be beneficial.
 
 
 ## Day 2: Introduction to Statistics 
@@ -70,19 +78,17 @@ heuristics will give you a head start. Heuristics help you know where to
 start looking, spark ideas, and get unstuck.
 
 
-## Day 5: Data Visualizations & Graphing Libraries
+## Day 5/6: Data Visualizations & Graphing Libraries
 
 In the Python world, there are multiple options for visualizing your 
 data. Because of this variety, it can be really challenging to figure 
 out which one to use when. This section covers some of the more popular 
 ones and illustrates how to use them to create a simple charts.
 
-Our goal for this section is for you to be able to communicate insights 
-and tell stories using data visualization.
+Our goal for this section is for you to be comfortable identifying which
+graph would best represent a given dataset as well as communicate 
+insights and tell stories using data visualizations.
 
-## Day 6: Charts & Plotting
-
-{ CONTENT GOES HERE }
 
 ## Day 7/8: Final Project
 
