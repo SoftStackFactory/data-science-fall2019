@@ -22,10 +22,9 @@ share
 
 #### Case Study and Workshop
 - Case Study: IRIS  Data Set
-    - Import Pandas
-    - Read a CSV file and assign to a Dataframe
-    - Examine Dataframe content and structure
+    - Import data using sklearn
+    - Examine data content and structure
     - Explore summary information
-    - Manipulate the Dataframe
+    - Manipulate the data
 - Workshop
     - Explore a Dataframe using NBA Data
