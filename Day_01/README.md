@@ -22,7 +22,7 @@ share
 
 #### Case Study and Workshop
 - Case Study: IRIS  Data Set
-    - Import data using sklearn
+    - Import data using Pandas
     - Examine data content and structure
     - Explore summary information
     - Manipulate the data
